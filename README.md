@@ -1,23 +1,15 @@
-# Mesto
-
-Учебный проект mesto - интерактивная страница где можно отредактировать профиль пользователя, загружать и удалять фото, ставить лайки.
+Интерактивная страница где можно отредактировать профиль пользователя, загружать и удалять фото, ставить лайки.
 
 ---
 
 В проекте использовались следующие технологии: \
 `HTML 5 (Semantic)` \
 `CSS3` \
-`adaptive` \
 `БЭМ` \
 `Nested (файловая структура)` \
-`Flex-box` \
-`Grid layout` \
-`position` \
 `JavaScript` \
-`ООП` \
 `Webpack 5.70.0` \
 `Babel 7.17.8` \
-`API`
 
 ---
 
@@ -43,8 +35,8 @@
 
 В командной строке перейти в нужный каталог:
 
-- клонировать репозиторий создав новый каталог `git clone https://github.com/Taashev/mesto.git`
-- клонировать все файлы в текущий каталог `git clone https://github.com/Taashev/mesto.git .`
+- клонировать репозиторий создав новый каталог `git clone https://github.com/Taashev/photolike.git`
+- клонировать все файлы в текущий каталог `git clone https://github.com/Taashev/photolike.git .`
 
 Установить зависимости `npm i`
 
@@ -54,8 +46,4 @@
 
 ---
 
-[GitHub Pages](https://taashev.github.io/mesto/)
-
-Figma:\
-[Макет](https://www.figma.com/file/bjyvbKKJN2naO0ucURl2Z0/JavaScript.-Sprint-5?node-id=0%3A1)\
-[Mакет "Валидация форм"](https://www.figma.com/file/kRVLKwYG3d1HGLvh7JFWRT/JavaScript.-Sprint-6?node-id=0%3A1)
+[GitHub Pages](https://taashev.github.io/photolike/)

@@ -1,5 +1,5 @@
 {
-  "name": "mesto",
+  "name": "photolike",
   "version": "1.0.0",
   "scripts": {
     "build": "webpack --mode production",
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Taashev/mesto.git"
+    "url": "git+https://github.com/Taashev/photolike.git"
   },
   "bugs": {
-    "url": "https://github.com/Taashev/mesto/issues"
+    "url": "https://github.com/Taashev/photolike/issues"
   },
-  "homepage": "https://github.com/Taashev/mesto#readme"
+  "homepage": "https://github.com/Taashev/photolike#readme"
 }

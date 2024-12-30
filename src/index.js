@@ -1,15 +1,15 @@
 import './index.css';
 
 // import
-import * as constants from '../utils/constants.js';
-import Card from '../components/Card.js';
-import FormValidator from '../components/FormValidator.js';
-import Section from '../components/Section.js';
-import PopupWithImage from '../components/PopupWithImage.js';
-import PopupWithForm from '../components/PopupWithForm.js';
-import PopupWithConfirmation from '../components/PopupWithConfirmation.js';
-import UserInfo from '../components/UserInfo.js';
-import Api from '../components/Api.js';
+import * as constants from './utils/constants.js';
+import Card from './components/Card.js';
+import FormValidator from './components/FormValidator.js';
+import Section from './components/Section.js';
+import PopupWithImage from './components/PopupWithImage.js';
+import PopupWithForm from './components/PopupWithForm.js';
+import PopupWithConfirmation from './components/PopupWithConfirmation.js';
+import UserInfo from './components/UserInfo.js';
+import Api from './components/Api.js';
 
 
 // api
